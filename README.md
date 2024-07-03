@@ -10,7 +10,7 @@ This project is a simple Text to Speech Converter built using HTML, CSS, and Jav
 
 ## Demo
 
-![Text to Speech Converter](images/demo.png)
+https://texttospeechconvertersite.netlify.app/
 
 ## Getting Started
 
